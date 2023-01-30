@@ -78,6 +78,7 @@ h2 {
   width: 100vw;
   height: 200px;
   z-index: -1;
+  margin-bottom: 150px;
 }
 
 @keyframes display {
@@ -222,5 +223,8 @@ align-content: center;
   }
   a {
       font-size: 1.1rem !important;
+  }
+  .pic-ctn {
+    margin-bottom: -150px;
   }
 }
