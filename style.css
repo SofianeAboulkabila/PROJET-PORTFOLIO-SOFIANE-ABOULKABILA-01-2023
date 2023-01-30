@@ -173,11 +173,14 @@ input{
   border: 2px solid black;
   padding: 10px 30px;
   text-shadow: none;
+  font-size: 30px;
 }
 
 #submit {
   border-radius: 20px;
-  margin-left: 25%;
+  margin-left: 35%;
+  transform: translateX(50%);
+  transform: translateY(50%);
 }
 
 .form {
